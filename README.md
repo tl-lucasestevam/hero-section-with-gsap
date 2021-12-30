@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+<h2 align="center">Hero Section with gsap Animations</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">
+ <a href="#-features">💻 Features</a> •
+ <a href="#-technologies-used">🛠 Technologies</a> • 
+ <a href="#books-what-i-learn">:books: What I learn</a> 
+ <a href="#-how-to-run-the-project">🔨 How to run the project</a> • 
+ <a href="#star2-thanks">:star2: Thanks</a>
+</h4>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+<img align="center" 
+	src="./.github/demo.gif" 
+	alt="Hero section Demo" 
+/>
 
-### `npm start`
+<h2 align="center"> 
+	<a href="https://hero-section-with-gsap.vercel.app/">View Site</a>
+</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💻 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] Hero section with cool gsap animations
 
-### `npm test`
+## 🛠 Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Sass](https://sass-lang.com/documentation)
+- [GSAP 2.0](https://greensock.com/docs/v2/GSAP)
 
-### `npm run build`
+## :books: What I learn
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- How to make basics animations with gsap
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔨 How to run the project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Clone this repository
+$ git clone https://github.com/tl-lucasestevam/hero-section-with-gsap
 
-### `npm run eject`
+# Access the project folder
+$ cd hero-section-with-gsap
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Install the dependencies
+$ yarn 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Run the application in development mode
+$ yarn start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## **:star2: Thanks!**
 
-## Learn More
+<div align=center>
+  <table style="width:100%">
+    <tr align=center>
+      <td>
+        <a href="https://www.youtube.com/channel/UCqrxiLP9RHz2GxDJaZuTRBw">
+          <img width="150" height="150" src="https://avatars.githubusercontent.com/u/31742755?v=4">
+        </a>
+        <p>
+          Akram Khalid (Wrong Akram)
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h4 align="center">
+	Make with ❤️ by <a href="https://github.com/tl-lucasestevam">Lucas Estevam</a>
+</h4>
